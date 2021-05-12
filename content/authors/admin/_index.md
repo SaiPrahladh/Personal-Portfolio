@@ -5,7 +5,7 @@ title: Nelson Bighetti
 
 # Username (this should match the folder name)
 authors: 
--admin
+- admin
 
 # Is this the primary user of the site?
 superuser: true
