@@ -1,9 +1,9 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
+title: Sai Prahladh Padmanabhan
+role: Graduate Student
 avatar_filename: avatar.jpg
 organizations:
-  - name: Stanford University
+  - name: Carnegie Mellon University
     url: https://www.stanford.edu/
 superuser: true
 authors:
