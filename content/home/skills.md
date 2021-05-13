@@ -26,10 +26,10 @@ feature:
   icon_pack: fas
   name: Photography
   
-- icon: "cpp"
-  icon_pack: "custom"
-  name: "C++"
-  description: "Beginner"
+- icon: cpp
+  icon_pack: custom
+  name: C++
+  description: Beginner
   
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
