@@ -20,10 +20,7 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
-- description: Beginner
-  icon: "c"
-  icon_pack: "custom"
-  name: "C++"
+
 - description: 10%
   icon: camera-retro
   icon_pack: fas
@@ -38,8 +35,8 @@ feature:
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-#- icon: "your-custom-icon-name"
-#  icon_pack: "custom"
-#  name: "Surfing"
-#  description: "90%"
+- icon: "c"
+  icon_pack: "custom"
+  name: "C++"
+  description: "Beginner"
 ---
