@@ -31,6 +31,11 @@ feature:
   name: C++
   description: Beginner
   
+- icon: pytorch
+  icon_pack: custom
+  name: PyTorch
+  description: Intermediate
+  
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
