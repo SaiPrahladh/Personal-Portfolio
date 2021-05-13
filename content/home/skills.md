@@ -21,7 +21,7 @@ feature:
   icon_pack: fab
   name: Python
 - description: Beginner
-  icon: c
+  icon: "c"
   icon_pack: custom
   name: C++
 - description: 10%
