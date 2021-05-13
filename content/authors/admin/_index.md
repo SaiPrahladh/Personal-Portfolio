@@ -32,12 +32,12 @@ social:
     link: https://www.linkedin.com/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
+    - course: M.S in Electrical and Computer Engineering
+      institution: Carnegie Mellon University, Pittsburgh, PA
+      year: 2021
+    - course: B.E in Electronics Engineering
+      institution: Vivekanand Education Society's Institute of Technology, Mumbai, India
+      year: 2019
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
