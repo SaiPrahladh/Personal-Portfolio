@@ -22,8 +22,8 @@ feature:
   name: Python
 - description: Beginner
   icon: "c"
-  icon_pack: custom
-  name: C++
+  icon_pack: "custom"
+  name: "C++"
 - description: 10%
   icon: camera-retro
   icon_pack: fas
