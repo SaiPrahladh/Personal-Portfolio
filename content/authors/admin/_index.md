@@ -32,9 +32,6 @@ education:
     - course: B.E in Electronics Engineering
       institution: Vivekanand Education Society's Institute of Technology, Mumbai, India
       year: 2019
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 highlight_name: false
 email: ""
 ---
