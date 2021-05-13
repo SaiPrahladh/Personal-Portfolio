@@ -8,5 +8,5 @@ active: true
 author: admin
 design:
   background:
-    image: /assets/media/saiprahp.jpeg
+    image: ""
 ---
