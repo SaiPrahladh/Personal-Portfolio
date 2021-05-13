@@ -4,7 +4,7 @@ role: Graduate Student
 avatar_filename: avatar.jpg
 organizations:
   - name: Carnegie Mellon University
-    url: https://www.stanford.edu/
+    url: ""
 superuser: true
 authors:
   - admin
