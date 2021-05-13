@@ -21,8 +21,8 @@ feature:
   icon_pack: fab
   name: Python
 - description: Beginner
-  icon: chart-line
-  icon_pack: fas
+  icon: c
+  icon_pack: custom
   name: C++
 - description: 10%
   icon: camera-retro
