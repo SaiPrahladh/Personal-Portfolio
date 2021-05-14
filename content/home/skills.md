@@ -25,6 +25,11 @@ feature:
   icon_pack: custom
   name: PyTorch
   description: Intermediate
+  
+- icon: matlab
+  icon_pack: custom
+  name: MATLAB
+  description: Intermediate
 
 - icon: cpp
   icon_pack: custom
