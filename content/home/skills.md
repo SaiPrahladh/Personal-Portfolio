@@ -21,21 +21,22 @@ feature:
   icon_pack: fab
   name: Python
 
-# -description: 10%
-#  icon: camera-retro
-#  icon_pack: fas
-#  name: Photography
-  
+- icon: pytorch
+  icon_pack: custom
+  name: PyTorch
+  description: Intermediate
+
 - icon: cpp
   icon_pack: custom
   name: C++
   description: Beginner
   
-- icon: pytorch
-  icon_pack: custom
-  name: PyTorch
-  description: Intermediate
-  
+# -description: 10%
+#  icon: camera-retro
+#  icon_pack: fas
+#  name: Photography
+    
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
