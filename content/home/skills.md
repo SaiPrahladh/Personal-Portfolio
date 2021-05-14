@@ -21,10 +21,10 @@ feature:
   icon_pack: fab
   name: Python
 
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+# -description: 10%
+#  icon: camera-retro
+#  icon_pack: fas
+#  name: Photography
   
 - icon: cpp
   icon_pack: custom
