@@ -26,11 +26,11 @@ experience:
     company: Carnegie Mellon University
     company_url: ''
     company_logo: CMU
-    location: California
+    location: Pittsburgh, PA
     date_start: '2020-12-15'
     date_end: ''
     description: |2-
-       Fulfilled the role of a TA for a reputed Deep Learning course (11-785) at CMU, taught by Prof. Bhiksha Raj.
+       Fulfilled the role of a TA for a reputed Deep Learning course (11-785) at CMU, taught by Prof. Bhiksha Raj.|
        Responsibilities include:
         
         * Creating Assignments and quizzes.
