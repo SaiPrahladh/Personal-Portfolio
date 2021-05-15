@@ -22,19 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Graduate Teaching Assistant
+    company: Carnegie Mellon University
     company_url: ''
     company_logo: org-gc
     location: California
-    date_start: '2021-01-01'
+    date_start: '12-2021'
     date_end: ''
-    description: |2-
+    description:
+    Fulfilled the role of teaching assistant for a reputed Deep Learning course (11-785)
+    under the guidance of Prof. Bhiksha Raj.|2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Creating Assignments and quizzes.
+        * Holding Office Hours.
+        * Project mentoring
         
   - title: Professor of Semiconductor Physics
     company: University X
