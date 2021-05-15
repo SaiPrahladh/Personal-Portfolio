@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Graduate Teaching Assistant
     company: Carnegie Mellon University
-    company_url: ''
+    company_url: 'https://deeplearning.cs.cmu.edu/S21/index.html'
     company_logo: CMU
     location: Pittsburgh, PA
     date_start: '2020-12-15'
