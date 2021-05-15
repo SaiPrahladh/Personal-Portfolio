@@ -39,7 +39,7 @@ experience:
         
   - title: Graduate Research Assistant
     company: Cylab, Carnegie Mellon University
-    company_url: ''
+    company_url: 'https://www.cylab.cmu.edu/index.html'
     company_logo: CyLab
     location: Pittsburgh, PA
     date_start: '2020-09-01'
@@ -54,7 +54,7 @@ experience:
 
   - title: Deep Learning Intern
     company: Cere Labs Pvt. Ltd.
-    company_url: ''
+    company_url: 'https://cerelabs.com/'
     company_logo: cerelabs
     location: Mumbai, India
     date_start: '2019-06-01'
