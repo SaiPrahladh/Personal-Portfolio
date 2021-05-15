@@ -36,7 +36,7 @@ experience:
         * Holding Office Hours.
         * Project mentoring
         
-  - title: Professor of Semiconductor Physics
+  - title: Professor of Chemistry
     company: University X
     company_url: ''
     company_logo: org-x
