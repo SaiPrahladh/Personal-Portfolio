@@ -29,8 +29,7 @@ experience:
     location: California
     date_start: '2021-01-01'
     date_end: ''
-    description: |1- Hi 
-    |2-
+    description: |2-
         Responsibilities include:
         
         * Analysing
