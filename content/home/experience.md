@@ -45,7 +45,7 @@ experience:
     date_start: '2020-09-01'
     date_end: '2020-12-31'
     description: |2-
-        Worked on ensuring safety of shared control in autonomous driving under the guidance of Prof.Corina Pasareanu.
+        Worked on ensuring safety of shared control in autonomous driving under the guidance of Prof. Corina Pasareanu.
         
         * Performed K-means clustering on driver reaction time classification output of a neural network to verify robustness of  classification and ensure safety of shared     
           control in autonomous driving.
