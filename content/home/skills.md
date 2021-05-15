@@ -24,7 +24,7 @@ feature:
 - icon: pytorch
   icon_pack: custom
   name: PyTorch
-  description: Intermediate
+  description: Proficient
   
 - icon: tensorflow-tf
   icon_pack: custom
