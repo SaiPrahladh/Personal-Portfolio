@@ -37,12 +37,12 @@ experience:
         * Holding Office Hours.
         * Project group mentoring
         
-  - title: Professor of Chemistry
-    company: University X
+  - title: Graduate Research Assistant
+    company: Cylab, Carnegie Mellon University
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
+    company_logo: CyLab
+    location: Pittsburgh, PA
+    date_start: '2020-09-01'
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
