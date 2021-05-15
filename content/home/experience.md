@@ -29,8 +29,7 @@ experience:
     location: California
     date_start: '12-2021'
     date_end: ''
-    description: Fulfilled the role of teaching assistant for a reputed Deep Learning course (11-785)
-    under the guidance of Prof. Bhiksha Raj.|2-
+    description: |2-
         Responsibilities include:
         
         * Creating Assignments and quizzes.
