@@ -60,7 +60,7 @@ experience:
     date_start: '2019-06-01'
     date_end: '2019-08-31'
     description: |2-
-        Fulfilled following responsibilities:
+        Fulfilled the following responsibilities:
         
         * Trained Feature Pyramid Networks for text localization in documents.
         * Enhanced  text localization accuracy by 2% after adopting Progressive Scale Expansion Network architecture.
