@@ -52,6 +52,19 @@ experience:
         * Improved the clustering methodology through mean centroid initialization and elbow method to observe a maximum of 20% increase in cluster radii across 5 clustered 
           regions.
 
+  - title: Deep Learning Intern
+    company: Cere Labs Pvt. Ltd.
+    company_url: ''
+    company_logo: cerelabs
+    location: Mumbai, India
+    date_start: '2019-06-01'
+    date_end: '2019-08-31'
+    description: |2-
+        Fulfilled following responsibilities:
+        
+        * Trained Feature Pyramid Networks for text localization in documents.
+        * Enhanced  text localization accuracy by 2% after adopting Progressive Scale Expansion Network architecture.
+        * Resolved issue of omission of isolated characters by tuning hyperparameters for a ResNet-50 backbone.
 design:
   columns: '2'
 ---
