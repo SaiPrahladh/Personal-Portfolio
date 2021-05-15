@@ -30,6 +30,11 @@ feature:
   icon_pack: custom
   name: MATLAB
   description: Intermediate
+  
+- icon: tensorflow-tf
+  icon_pack: custom
+  name: Tensorflow
+  description: Intermediate
 
 - icon: cpp
   icon_pack: custom
