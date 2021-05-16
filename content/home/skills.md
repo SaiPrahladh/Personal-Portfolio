@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: Proficient
-  icon: neural
+  icon: nn
   icon_pack: custom
   name: Deep Learning
 
