@@ -1,6 +1,6 @@
 ---
 title: Face Verification.
-summary: Face Verification is a problem whereby we are required to identify if a pair of images are of the same person. This task is widely used in modern day applications like the popular 'Face-unlock' feature in smartphones, document id verification etc. This task can essentially split into two steps, face classification followed by face verification. Convolutional Neural Networks are the most popular choice while dealing with such tasks, hence ResNet-18 is the chosen architecture here.
+summary: Face Verification is a problem whereby we are required to confirm if a pair of images depict the same peron's facial features. This task is widely used in modern day applications like the popular 'Face-unlock' feature in smartphones, document id verification etc. This task can essentially split into two steps, face classification followed by face verification. Convolutional Neural Networks are the most popular choice while dealing with such tasks, hence ResNet-18 is the chosen architecture here.
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
