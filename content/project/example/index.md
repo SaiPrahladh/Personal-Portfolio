@@ -44,5 +44,5 @@ This project leverages the capabilities of OpenCV to identify the coordinates of
 7. Calculate the range of horizontal and vertical motion for both the eyes.
 8. (Optional) Push these ranges onto an MQTT database.
 
-
+Check out the working demo linked through the video button!
 
