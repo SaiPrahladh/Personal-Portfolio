@@ -36,7 +36,7 @@ This project leverages the capabilities of OpenCV to identify the coordinates of
 
 **HOW IS THE TRACKING PERFORMED?**
 1. The first step is to detect the face in the video frame using the 'get_frontal_face_detector' feature from the dlib library.
-2. The predictor is initialized using the pretrained 68 keypoints facial feature detector ('shape_68.dat').
+2. The predictor is initialized using the pretrained 68 keypoints facial feature detector.
 3. Obtain video frames from a webcam and perform the tracking operation frame by frame.
 4. Perform preprocessing steps as mentioned in the comments of the code and obtain a masked and thresholded image.
 5. Obtain the coordinates of the pupils and contour the thresholded image to highlight the pupils in each frame.
