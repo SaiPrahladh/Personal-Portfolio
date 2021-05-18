@@ -30,7 +30,7 @@ content:
   - name: Deep Learning
     tag: Deep Learning
   - name: Computer Vision
-    tag: CV
+    tag: Computer Vision
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
