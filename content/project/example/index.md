@@ -3,8 +3,8 @@ slides: example
 url_pdf: ""
 summary: An example of using the in-built project page.
 url_video: ""
-date: 2016-04-27T00:00:00Z
-external_link: https://github.com/SaiPrahladh/Pygames/tree/main/Snake
+date: 2016-04-27T00:00:00.000Z
+external_link: None
 url_slides: ""
 title: Example Project
 tags:
@@ -17,6 +17,7 @@ links:
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
+  preview_only: false
 url_code: ""
 ---
 ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
