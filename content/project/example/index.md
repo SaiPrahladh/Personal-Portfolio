@@ -20,7 +20,7 @@ links:
 url_code: "https://github.com/SaiPrahladh/Eye_tracking"
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://drive.google.com/file/d/1AfOE6M_dI9rsm8Q8zE9uuoXoVKSp1V8w/view?usp=sharing"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
