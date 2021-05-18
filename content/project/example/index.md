@@ -4,7 +4,7 @@ url_pdf: ""
 summary: An example of using the in-built project page.
 url_video: ""
 date: 2016-04-27T00:00:00.000Z
-external_link: None
+external_link: https://github.com/SaiPrahladh/Eye_tracking
 url_slides: ""
 title: Example Project
 tags:
