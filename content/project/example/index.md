@@ -1,6 +1,6 @@
 ---
-title: Eye/Gaze Tracking
-summary: Real time Eye/Gaze tracking using OpenCV
+title: Real time Eye/Gaze Tracking.
+summary: Real time Eye/Gaze tracking is a process which is really useful in the field of medical science and has proven to be the only method to objectively and accurately record and analyse visual behaviour. This use case is designed as a part of a larger medical subsystem catered towards improving the quality of life of Huntington's disease patients. This eye tracking implementation enables us to quantify the range of voluntary eye movement of HD patients through Occular Pursuit exercises. This implementation leverages the vast capabilities of the OpenCV library.
 tags:
 - Computer Vision
 date: "2016-04-27T00:00:00Z"
@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by immersed.io contributors
   focal_point: Smart
 
 links:
