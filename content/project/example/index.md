@@ -1,6 +1,6 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
+title: Eye/Gaze Tracking
+summary: Real time Eye/Gaze tracking using OpenCV
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
