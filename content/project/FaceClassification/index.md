@@ -42,6 +42,7 @@ As explained above, the entire verification task can be split into two problems.
 Thus the above two problems are tackled by building a ResNet architecture.
 
 **WHY RESNET?**
+
 ResNets have been known to outperform classical CNNs by allowing us to build deeper networks. The primary shortcomings of classical CNN network like for example VGG-19 network exhibit higher training and validation error as compared to a shallower network. The paper on ResNet https://arxiv.org/pdf/1512.03385.pdf says that "not all systems are similarly easy to optimize.". This could be because of the problem of vanishing gradients, and this is where ResNets have an advantage. ResNets enable the gradients to reach every layer and thus allows us to build deeper networks with better performance.
 
 **EVALUATION:**
