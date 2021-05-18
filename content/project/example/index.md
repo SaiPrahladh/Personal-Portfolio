@@ -2,7 +2,7 @@
 title: Eye/Gaze Tracking
 summary: Real time Eye/Gaze tracking using OpenCV
 tags:
-- Deep Learning
+- CV
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
