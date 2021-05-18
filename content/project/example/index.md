@@ -6,7 +6,7 @@ title: Example Project
 date: 2016-04-27T00:00:00.000Z
 summary: An example of using the in-built project page.
 url_video: ""
-featured: true
+featured: false
 tags:
   - Deep Learning
 external_link: https://github.com/SaiPrahladh/Eye_tracking
