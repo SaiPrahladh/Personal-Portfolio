@@ -31,7 +31,7 @@ url_video: ""
 ---
 **MOTIVATION:**
 
-Content moderation has been a challenging task for major corporations and news agencies as the authenticity of news is of paramount importance. With that consideration in mind, we wanted to apply machine learning tools and algorithms to tackle the issue of fake news, by observing recurring patterns that can be found in articles which can be deemed fake. These patterns are then compared with authentic news to determine the criteria used to classify an article as fake or authentic.
+Content moderation has been a challenging task for major corporations and news agencies as the authenticity of news is of paramount importance. With that consideration in mind, the goal is to apply machine learning tools and algorithms to tackle the issue of fake news, by observing recurring patterns that can be found in articles which can be deemed fake. These patterns are then compared with authentic news to determine the criteria used to classify an article as fake or authentic.
 
 **HOW IS THE CLASSIFICATION PERFORMED?**
 
