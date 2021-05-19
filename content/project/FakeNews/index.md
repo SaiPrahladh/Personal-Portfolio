@@ -1,8 +1,8 @@
 ---
-title: Fake News Classification.
+title: Fake News Detection.
 summary: Speech recognition is an interdisciplinary subfield of computer science and computational linguistics that develops methodologies and technologies that enable the recognition and translation of spoken language into text by computers. It is also known as automatic speech recognition (ASR), computer speech recognition or speech to text (STT). This project attempts to create an end-to-end speech transcription network consisting of encoder-decoder structure equipped with attention mechanism. Levenshtein distance was the evaluation metric used to gauge the performance of the network. This architecture obtains an average Levenshtein distance of 24.3.
 tags:
-- Deep Learning
+- Machine Learning
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
