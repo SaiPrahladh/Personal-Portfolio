@@ -31,6 +31,8 @@ content:
     tag: Deep Learning
   - name: Computer Vision
     tag: Computer Vision
+  - name: Machine Learning
+    tag: Machine Learning
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
