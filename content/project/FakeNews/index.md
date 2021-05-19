@@ -11,7 +11,8 @@ external_link: ""
 image:
   caption: Photo from the LFW dataset.
   focal_point: Smart
-
+authors:
+  Sai Prahladh Padmanabhan, Rohan Bansal
 links:
 # - icon: twitter
 #  icon_pack: fab
