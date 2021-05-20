@@ -31,7 +31,7 @@ url_video: ""
 ---
 **MOTIVATION:**
 
-Planar homography is a warp operation that maps pixel coordinates from one camera frame to another with the fundamental assumption that the points are lying on a plane in the real world. Under this assumption the mapping can be expressed as -
+Planar homography is a warp operation that maps pixel coordinates from one camera frame to another with the fundamental assumption that the points are lying on a plane in the real world. Under this assumption the mapping can be expressed as 
 x1 ≡ Hx2
 Where x1 and x2 are homogeneous coordinates and H is the homography matrix.
 
