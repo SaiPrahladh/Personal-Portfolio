@@ -1,6 +1,6 @@
 ---
 title: Augmented Reality system using Planar Homographies.
-summary: Face Verification is a problem whereby we are required to confirm if a pair of images depict the same peron's facial features. This task is widely used in modern day applications like the popular 'Face-unlock' feature in smartphones, document id verification etc. This task can essentially split into two steps, face classification followed by face verification. Convolutional Neural Networks are the most popular choice while dealing with such tasks, hence ResNet-18 is the chosen architecture here.
+summary: Planar homography is a warp operation that maps pixel coordinates from one camera frame to another with the fundamental assumption that the points are lying on a plane in the real world. This concept allows us to create cool applications such as an augmented reality system or a panorama stitcher.
 tags:
 - Computer Vision
 date: "2016-04-27T00:00:00Z"
@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo from the NVIDIA Developer Blog.
+  caption: Photo from EURASIP Journal on Advances in Signal Processing.
   focal_point: Smart
 
 links:
