@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo from the NVIDIA Developer Blog.
+  caption: Photo from LFW.
   focal_point: Smart
 share: false
 links:
