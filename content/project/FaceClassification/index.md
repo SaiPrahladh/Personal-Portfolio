@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo from LFW.
+  caption: Photo from LFW dataset.
   focal_point: Smart
 share: false
 links:
