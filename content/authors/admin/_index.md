@@ -35,6 +35,6 @@ education:
 highlight_name: false
 email: ""
 ---
-I am a graduate student at Carnegie Mellon University pursuing my Master's degree in Electrical and Computer Engineering. I am really interested in exploring the spheres of Machine Learning, Deep Learning and Computer vision. My current research is based on ensuring safety of shared control in Autonomous Driving under the guidance of Prof. Corina Pasareanu. Apart from this I am also working as a Graduate Teaching Assistant for a reputed Deep Learning course at CMU along with Prof. Bhiksha Raj.
+I am a graduate student at Carnegie Mellon University pursuing my Master's degree in Electrical and Computer Engineering. My interests are in exploring the spheres of Machine Learning, Deep Learning and Computer vision. My current research is based on ensuring safety of shared control in Autonomous Driving under the guidance of Prof. Corina Pasareanu. Apart from this I am also working as a Graduate Teaching Assistant for a reputed Deep Learning course at CMU along with Prof. Bhiksha Raj.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1XrNmmPZoVvFBZzdA_zDx4BSHpWRh6Iuz/view?usp=sharing" "newtab" >}}resume{{< /staticref >}}.
