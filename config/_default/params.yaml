@@ -40,7 +40,7 @@ appointment_url: 'https://calendly.com'
 contact_links:
   - icon: linkedin
     icon_pack: fab
-    name: DM Me
+    name: Hire me
     link: 'https://www.linkedin.com/in/saiprahladhp/'
   # - icon: skype
   #  icon_pack: fab
