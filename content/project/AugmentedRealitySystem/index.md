@@ -43,3 +43,5 @@ We can use these matched points to calculate the Planar Homography matrix that w
 2. The maximum absolute value of the matrix is 1
 We can then implement RANSAC to compute a homography. The best homography matrix would be the one with the most inliers found during RANSAC. 
 
+See the code and this document https://docs.google.com/document/d/1DErhbBJI4_fr6daAV_Dbo2ECviJ8Sqvarmr163pYWp4/edit?pli=1 to check out the results of the project!
+
