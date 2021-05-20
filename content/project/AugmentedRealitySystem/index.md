@@ -31,20 +31,16 @@ url_video: ""
 ---
 **MOTIVATION:**
 
+Planar homography is a warp operation that maps pixel coordinates from one camera frame to another with the fundamental assumption that the points are lying on a plane in the real world. Under this assumption the mapping can be expressed as :
+x1 ≡ Hx2
+Where x1 and x2 are homogeneous coordinates and H is the homography matrix.
 
+**HOW DOES THE MAPPING WORK?**
 
-**HOW IS THE VERIFICATION PERFORMED?**
+Before  finding the homography matrix between an image pair, we need to find corresponding point pairs between 2 images. We shall use an interest point detector to find particular salient points in the images around which we shall extract feature descriptors. These descriptors try to summarize the content of the image around the feature points in as succinct yet descriptive manner possible.The matching then can be performed by finding the descriptors in either images with the smallest corresponding distance measure ( eg: Euclidean distance). This can be achieved by using FAST detector along with the BRIEF descriptor.
+We can use these matched points to calculate the Planar Homography matrix that will represent the mapping. The numerical stability of the solution can be improved by normalizing the Homography matrix such that:
+1. Mean of the matrix is now the origin
+2. The maximum absolute value of the matrix is 1
+We can then implement RANSAC to compute a homography. The best homography matrix would be the one with the most inliers found during RANSAC. 
 
-As explained above, the entire verification task can be split into two problems.
-1. The classification problem, where we will train our neural network to correctly match the image to its corresponding label.
-2. The verification problem, where we will verify the cosine similarity between the embeddings of the images passed through the model. These embeddings are the features extracted from the penultimate layer of the model.
-
-Thus the above two problems are tackled by building a ResNet architecture.
-
-**WHY RESNET?**
-
-ResNets have been known to outperform classical CNNs by allowing us to build deeper networks. The primary shortcomings of classical CNN network like for example VGG-19 network exhibit higher training and validation error as compared to a shallower network. The paper on ResNet https://arxiv.org/pdf/1512.03385.pdf says that "not all systems are similarly easy to optimize.". This could be because of the problem of vanishing gradients, and this is where ResNets have an advantage. ResNets enable the gradients to reach every layer and thus allows us to build deeper networks with better performance.
-
-**EVALUATION:**
-
-Once the classification network is trained, the image embeddings are obtained from the penultimate layer of this network. These embeddings are then obtained for a given pair of images from which the Cosine similarity is calculated. This value is obtained for the entire testing data and the ROC-AUC score for this is calculated. The current architecture accomplishes the face verification task with an ROC-AUC score of 93.45.
+Check out the code and this document https://docs.google.com/document/d/1DErhbBJI4_fr6daAV_Dbo2ECviJ8Sqvarmr163pYWp4/edit?pli=1 for understanding the concept in depth!
