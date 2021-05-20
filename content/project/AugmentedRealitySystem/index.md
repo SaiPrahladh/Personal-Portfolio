@@ -11,7 +11,7 @@ external_link: ""
 image:
   caption: Photo from the NVIDIA Developer Blog.
   focal_point: Smart
-share: false
+
 links:
 # - icon: twitter
 #  icon_pack: fab
