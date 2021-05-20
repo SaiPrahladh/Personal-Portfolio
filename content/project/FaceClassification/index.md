@@ -1,6 +1,6 @@
 ---
 title: Face Verification.
-summary: Face Verification is a problem whereby we are required to confirm if a pair of images depict the same peron's facial features. This task is widely used in modern day applications like the popular 'Face-unlock' feature in smartphones, document id verification etc. This task can essentially split into two steps, face classification followed by face verification. Convolutional Neural Networks are the most popular choice while dealing with such tasks, hence ResNet-18 is the chosen architecture here.
+summary: Face Verification is a problem whereby we are required to confirm if a pair of images depict the same peron's facial features. This task is widely used in modern day applications like the popular 'Face-unlock' feature in smartphones, document id verification etc. This task can essentially be split into two steps, face classification followed by face verification. Convolutional Neural Networks are the most popular choice while dealing with such tasks, hence ResNet-18 is the chosen architecture here.
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
@@ -31,7 +31,7 @@ url_video: ""
 ---
 **MOTIVATION:**
 
-Face Verification is a problem whereby we are required to confirm if a pair of images depict the same peron's facial features. This task is widely used in modern day applications like the popular 'Face-unlock' feature in smartphones, document id verification etc. This task can essentially split into two steps, face classification followed by face verification. ResNets have proven to be the state of the art choice for such tasks. Face verification task is accomplished by comparing the embeddings of the pair of images and calculating the similarity of these embeddings. These embeddings are obtained from a trained face classification network.
+Face Verification is a problem whereby we are required to confirm if a pair of images depict the same peron's facial features. This task is widely used in modern day applications like the popular 'Face-unlock' feature in smartphones, document id verification etc. This task can essentially be split into two steps, face classification followed by face verification. ResNets have proven to be the state of the art choice for such tasks. Face verification task is accomplished by comparing the embeddings of the pair of images and calculating the similarity of these embeddings. These embeddings are obtained from a trained face classification network.
 
 **HOW IS THE VERIFICATION PERFORMED?**
 
