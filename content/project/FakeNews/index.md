@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo from the LFW dataset.
+  caption: Photo by MIT CSAIL.
   focal_point: Smart
   
 
