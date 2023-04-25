@@ -3,9 +3,8 @@ widget: experience
 date_format: Jan 2006
 experience:
   - title: Engineer
-    company: Samsung Semiconductor INC (Memory solutions lab)
-    company_url:https://samsungmsl.com/
-    company_logo: Samsung
+    company: Samsung Semiconductor INC,Memory solutions lab
+    company_url: https://samsungmsl.com/
     location: San Jose, CA
     date_start: 2021-09-20
     description: >-2
