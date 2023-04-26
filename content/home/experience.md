@@ -12,10 +12,7 @@ experience:
     date_end: Present
     description: >-2
       Upholding the role of an engineer in the Memory Solutions Lab working on storage solutions for SOTA Deep Learning Algorithms
-        * Conducted experiments on DLRM inference for value proposition of Memory Semantic SSD.
-        * Designed an end to end movie recommendation demo for DLRM inference utilizing Memory Semantic SSD and presented in  Open Compute Project.
-        * Established a Jenkins pipeline to automate performance tests and also created a visualization dashboard and streamlined performance testing. Accelerated performance testing by 10% through the automation.
-        * Performed research on the DeepSpeed framework for value proposition of Memory Semantic SSD in large language model inference.
+
         
   - title: Graduate Teaching Assistant
     company: Carnegie Mellon University
