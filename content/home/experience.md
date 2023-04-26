@@ -16,7 +16,7 @@ experience:
         * 	Researched the DeepSpeed framework for value proposition of Memory Semantic SSD in large language model inference.
 
   
-  - title: Graduate Teaching Assistant
+  - title: Graduat Teaching Assistant
     company: Carnegie Mellon University
     company_url: https://deeplearning.cs.cmu.edu/S21/index.html
     company_logo: CMU
