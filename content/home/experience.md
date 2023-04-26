@@ -30,7 +30,7 @@ experience:
         * Creating Assignments and quizzes.
         * Holding Office Hours.
         * Project group mentoring
-  - title: Graduate Research Assistant
+  - title: Graduat Research Assistant
     company: Cylab, Carnegie Mellon University
     company_url: https://www.cylab.cmu.edu/index.html
     company_logo: CyLab
