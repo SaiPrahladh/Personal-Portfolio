@@ -2,8 +2,7 @@
 widget: experience
 date_format: Jan 2006
 experience:
-
-- title: Engineer
+  - title: Engineer
     company: Samsung Semiconductor INC
     company_url: https://samsungmsl.com 
     company_logo: Samsung
