@@ -8,7 +8,6 @@ experience:
     company_logo: Samsung
     location: San Jose, CA
     date_start: 2021-09-20
-    date_end: Present
     description: >-2
        Fulfilled the role of a TA for a reputed Deep Learning course (11-785) at CMU, taught by Prof. Bhiksha Raj.
        Responsibilities include:
