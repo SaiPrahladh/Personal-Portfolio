@@ -9,12 +9,12 @@ experience:
     location: San Jose, CA
     date_start: 2021-09-20
     description: >-2
-       Fulfilled the role of a TA for a reputed Deep Learning course (11-785) at CMU, taught by Prof. Bhiksha Raj.
-       Responsibilities include:
+       Engineer at the Memory Solutions Lab working on value proposition of storage solutions for SOTA Deep Learning Algorithms:
         
-        * Creating Assignments and quizzes.
-        * Holding Office Hours.
-        * Project group mentoring
+        * Conducted experiments on DLRM inference for value proposition of Memory Semantic SSD.
+        * Designed an end to end movie recommendation demo for DLRM inference utilizing Memory Semantic SSD and presented in  Open Compute Project.
+        * Established a Jenkins pipeline to automate performance tests and also created a visualization dashboard and streamlined performance testing. Accelerated performance testing by 10% through the automation.
+        * Researched the DeepSpeed framework for value proposition of Memory Semantic SSD in large language model inference.
   - title: Graduate Teaching Assistant
     company: Carnegie Mellon University
     company_url: https://deeplearning.cs.cmu.edu/S21/index.html
