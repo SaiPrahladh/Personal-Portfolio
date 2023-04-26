@@ -3,20 +3,6 @@ widget: experience
 date_format: Jan 2006
 experience:
 
-  - title: Engineer
-    company: Samsung Semiconductor INC,Memory solutions lab
-    company_url: https://samsungmsl.com/
-    company_logo: Samsung
-    location: San Jose, CA
-    date_start: 2021-09-20
-    description: >-2
-             
-        * Conducted experiments on DLRM inference for value proposition of Memory Semantic SSD.
-        * Designed an end to end movie recommendation demo for DLRM inference utilizing Memory Semantic SSD and presented in  Open Compute Project.
-        * Established a Jenkins pipeline to automate performance tests and also created a visualization dashboard and streamlined performance testing. Accelerated performance testing by 10% through the automation.
-        * 	Researched the DeepSpeed framework for value proposition of Memory Semantic SSD in large language model inference.
-
-  
   - title: Graduate Teaching Assistant
     company: Carnegie Mellon University
     company_url: https://deeplearning.cs.cmu.edu/S21/index.html
