@@ -5,6 +5,7 @@ experience:
   - title: Engineer
     company: Samsung Semiconductor INC,Memory solutions lab
     company_url: https://samsungmsl.com/
+    company_logo: Samsung
     location: San Jose, CA
     date_start: 2021-09-20
     description: >-2
