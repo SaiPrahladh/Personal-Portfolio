@@ -2,18 +2,19 @@
 widget: experience
 date_format: Jan 2006
 experience:
-
-  - title: Engineer
-    company: Samsung Semiconductor Inc
-    company_url: https://samsungmsl.com/
+- title: Engineer
+    company: Samsung Semiconductor INC
+    company_url: https://samsungmsl.com 
     company_logo: Samsung
     location: San Jose, CA
     date_start: 2021-09-20
-    date_end: Present
     description: >-2
-      Upholding the role of an engineer in the Memory Solutions Lab working on storage solutions for SOTA Deep Learning Algorithms
-
+       Fulfilled the role of a TA for a reputed Deep Learning course (11-785) at CMU, taught by Prof. Bhiksha Raj.
+       Responsibilities include:
         
+        * Creating Assignments and quizzes.
+        * Holding Office Hours.
+        * Project group mentoring
   - title: Graduate Teaching Assistant
     company: Carnegie Mellon University
     company_url: https://deeplearning.cs.cmu.edu/S21/index.html
