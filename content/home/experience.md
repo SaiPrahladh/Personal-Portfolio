@@ -2,6 +2,7 @@
 widget: experience
 date_format: Jan 2006
 experience:
+
   - title: Engineer
     company: Samsung Semiconductor INC,Memory solutions lab
     company_url: https://samsungmsl.com/
@@ -16,7 +17,7 @@ experience:
         * 	Researched the DeepSpeed framework for value proposition of Memory Semantic SSD in large language model inference.
 
   
-  - title: Graduat Teaching Assistant
+  - title: Graduate Teaching Assistant
     company: Carnegie Mellon University
     company_url: https://deeplearning.cs.cmu.edu/S21/index.html
     company_logo: CMU
