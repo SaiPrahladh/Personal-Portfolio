@@ -3,6 +3,16 @@ widget: experience
 date_format: Jan 2006
 experience:
 
+  - title: Engineer
+    company: Samsung Semiconductor Inc
+    company_url: https://samsungmsl.com/
+    company_logo: Samsung
+    location: San Jose, CA
+    date_start: 2021-09-20
+    date_end: Present
+    description: >-2
+      Upholding the role of an engineer in the Memory Solutions Lab working on storage solutions for SOTA Deep Learning Algorithms
+
   - title: Graduate Teaching Assistant
     company: Carnegie Mellon University
     company_url: https://deeplearning.cs.cmu.edu/S21/index.html
