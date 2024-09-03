@@ -10,11 +10,11 @@ experience:
     date_start: 2021-09-20
     description: >-2
        Engineer at the Memory Solutions Lab working on value proposition of storage solutions for SOTA Deep Learning Algorithms:
-        
-        * Conducted experiments on DLRM inference for value proposition of Memory Semantic SSD.
-        * Designed an end to end movie recommendation demo for DLRM inference utilizing Memory Semantic SSD and presented in  Open Compute Project.
+    
+        * Designed and developed a code generation assistant with a chat-based UI using the Code-Qwen LLM, achieving an 80% pass@5 success in generating Verilog code, as benchmarked using VerilogEval, improving user interaction and  development efficiency..
+        * Designed a movie recommendation demo for DLRM inference utilizing Memory Semantic SSD and showcased the same in the Open Compute Project conference.
         * Established a Jenkins pipeline to automate performance tests and also created a visualization dashboard and streamlined performance testing. Accelerated performance testing by 10% through the automation.
-        * Researched about the DeepSpeed framework for large language model inference.
+    
   - title: Graduate Teaching Assistant
     company: Carnegie Mellon University
     company_url: https://deeplearning.cs.cmu.edu/S21/index.html
