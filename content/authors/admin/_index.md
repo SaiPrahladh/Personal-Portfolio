@@ -1,9 +1,9 @@
 ---
 title: Sai Prahladh Padmanabhan
-role: Graduate Student
+role: Engineer
 avatar_filename: avatar.jpg
 organizations:
-  - name: Carnegie Mellon University
+  - name: Samsung Semiconductor INC
     url: ""
 superuser: true
 authors:
