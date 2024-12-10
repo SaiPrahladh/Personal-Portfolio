@@ -35,6 +35,6 @@ education:
 highlight_name: false
 email: ""
 ---
-I am an engineer at Samsung Semiconductor INC with a strong background in designing scalable solutions leveraging Large Language Models (LLMs) and deep learning frameworks such as PyTorch and TensorFlow. My expertise spans developing end-to-end systems, from user-friendly interfaces to inference server backend, with a focus on Generative AI and applications. I am an Electrical and Computer Engineering graduate with my Master's degree from Carnegie Mellon University. My interests are in exploring the spheres of Machine Learning, Deep Learning and Computer vision. 
+I am an engineer at Samsung Semiconductor INC with a strong background in designing scalable solutions leveraging Large Language Models (LLMs) and deep learning frameworks such as PyTorch and TensorFlow. My expertise spans developing end-to-end systems, from user-friendly interfaces to inference server backend, with a focus on Generative AI applications. I am an Electrical and Computer Engineering graduate with my Master's degree from Carnegie Mellon University. My interests are in exploring the spheres of Machine Learning, Deep Learning and Computer vision. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/SaiPrahladh/Personal-Portfolio/blob/master/assets/media/demo_resume.pdf" "newtab" >}}resume{{< /staticref >}}.
